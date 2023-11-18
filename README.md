@@ -3,3 +3,4 @@
 # Enhanced the recruitment procedures
 # Elevated the overall employee experience
 # Increased workforce productivity and fostered trust among employees
+# Tool used for this project: Power BI
